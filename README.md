@@ -2,7 +2,7 @@
 
 ![](readme_image.PNG)
 
-### https://iurii-dziubiak.github
+### https://iurii-dziubiak.github.io/personal-webpage/
 
 ### Story
 This is my first Web project, I had to learn how to build a single page web application. 
