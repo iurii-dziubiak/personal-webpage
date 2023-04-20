@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'ss_vivasregular';
+    src: url('../fonts/vivas-webfont.woff2') format('woff2'), url('../fonts/fonts/vivas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dark_watersregular';
+    src: url('../fonts/darkwaters-regular-webfont.woff2') format('woff2'), url('../fonts/darkwaters-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+        font-family: Tahoma, Geneva, sans-serif;
+        font-size: 0.8em;
+        line-height: 1.1;
+}
+#mymenu {
+    padding-right: 2em;
+    background-color: #3d3b3c !important;
+    z-index: 5;
+}
+#menu {
+        position: fixed;
+        z-index: 10;
+        }
+h1 {
+    font-size: 1.8em;
+    font-family: ss_vivasregular;
+    color: #d3d2f1;
+   }
+h2 {
+    font-size: 1.7em;
+}
+a {
+    color: #d3d2f1 !important;
+    text-decoration: none !important;
+    }
+
+.fp-tableCell {
+    vertical-align: top;
+}
+td, th {
+  padding: 0.35em;
+}
+.col-xs-12 #mobstartPage {
+        padding-top: 70%;
+       text-align: center;
+    }
+.row {
+        padding-top: 4em;
+    }
+#startLogo {
+    padding-top: 1em;
+}
+.frow{
+        padding-top: 2em;
+    }
+.indent {
+    padding-top: 4em;
+    }    
+#section0 {
+    background-image: url(../img/start-page.jpg);
+    background-size: cover;
+        }
+#motto {
+    font-family: dark_watersregular;
+      font-size: 5.5em;
+      color: #d3d2f1;
+     padding-top: 2.5em;
+    }    
+#section1 {
+    background-image: url(../img/sekcja-wspinaczkowa.jpg);
+    background-size: cover;
+    padding-bottom: 1.5em;
+    }
+#section2 {
+    background-image: url(../img/personalny-trening.jpg);
+    background-size: cover;
+    color: #d3d2f1;
+    padding-bottom: 1.5em;
+    } 
+#section3 {
+    background-image: url(../img/wyjazdy-skaly.jpg);
+    background-size: cover;
+    color: #d3d2f1;
+    padding-bottom: 1.5em;
+    }
+#me {
+    margin-bottom: 2em;
+}
+.me {
+        padding-top: 10%;
+    }    
+#imgCenter {
+        text-align: center;
+    } 
+footer {
+    text-align: center;
+    background-color: #3d3b3c;
+    color: #d3d2f1;
+    padding: 2em 1em 1em 1em;
+   }
+#footer {
+    padding: 0;
+     }
+#photo {
+    text-align: left;
+}
+.vk i:hover, .fb i:hover {
+         color: #3b5998;
+}
+.icons {
+    margin-top: 1em;
+   }
+   
